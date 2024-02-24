@@ -6,7 +6,7 @@ from shlex import split
 from models import storage
 from models.base_model import BaseModel
 from datetime import datetime
-from models.user import user
+from models.user import User
 
 
 all_classes = [
